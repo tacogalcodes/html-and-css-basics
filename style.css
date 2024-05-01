@@ -1,0 +1,12 @@
+body {
+    background-color:aliceblue;
+}
+
+h2 {
+    background-color: lightblue;
+    color:honeydew;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px pink;
+}
+   
